@@ -8,5 +8,6 @@ cookie, err := r.Cookie("_cookie")
 return
 }
 
-The session function retrieves the cookie from the request: 
-cookie, err := r.Cookie("_cookie")Listing 2.5session utility function in util.go
+// The session function retrieves the cookie from the request: 
+// cookie, err := r.Cookie("_cookie")Listing 2.5session utility function in util.go
+
